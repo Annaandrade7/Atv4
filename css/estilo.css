@@ -1,0 +1,62 @@
+*{
+    margin: 0px                                                                                                                                                                                                                                                                                                             ;
+}
+header{
+    width: 100%;
+    height: 90px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+nav ul{
+    float: right;
+    display: flex;
+}
+
+nav ul li{
+    margin-right: 20px;
+    color: white;
+    list-style-type: none;
+}
+img{
+    width: 300px;
+    height: 80px;
+}
+#todo{
+    margin-top: 150px;
+    margin-left: 25%;
+    display: flex;
+    width: 50%;
+    border-radius: 25%;
+}
+#anna{
+    width: 75%;
+    height: 75%;
+    border-radius: 15px;
+}
+p{
+    color: rgb(73, 73, 73);
+}
+#todo2{
+    margin-top:150px;
+    margin-left: 30%;
+}
+a{
+    color: white;
+}
+input{
+    height: 30px;
+    width: 50%;
+}
+.Black{
+    color: black;
+}
+button{
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    float: right;
+    margin-right: 50%;
+}
